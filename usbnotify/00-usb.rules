@@ -1,0 +1,2 @@
+KERNEL=="sd*",RUN+="/opt/usbnotify.sh"
+
